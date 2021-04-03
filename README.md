@@ -16,7 +16,7 @@ Urban cities have a most number of rides, when compared with the other city type
 ![](pyber_summary.png)
 
 
-![](PyBer_fare_Summary.png)
+![](PyBer_fare_summary.png)
 
 
 ### Summary
